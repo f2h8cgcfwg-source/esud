@@ -6,6 +6,8 @@ browser-profile/
 
 # Справжні заяви клієнтів і результати розбору
 zaiavy/
+# Записи codegen: містять дані, введені у форму
+zapys/
 rezultat/*
 !rezultat/zrazky.json
 !rezultat/zrazky.html
