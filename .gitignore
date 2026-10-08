@@ -1,0 +1,17 @@
+# Вхід у кабінет Е-суду — НІКОЛИ не публікувати
+auth.json
+*.auth.json
+profil/
+browser-profile/
+
+# Справжні заяви клієнтів і результати розбору
+zaiavy/
+rezultat/*
+!rezultat/zrazky.json
+!rezultat/zrazky.html
+
+# Службові файли
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
